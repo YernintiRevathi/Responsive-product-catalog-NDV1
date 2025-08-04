@@ -12,9 +12,9 @@ The project is organized with a clear and simple file structure:
 
 ├── images/
 
-│    ├── product1.webp
+│     ├── product1.webp
 
-│    └── (other product images...)
+│     └── (other product images...)
 
 │
 
