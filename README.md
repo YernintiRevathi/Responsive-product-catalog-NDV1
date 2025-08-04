@@ -57,3 +57,4 @@ This project does not require any installation or special tools.
 2.  **Open the HTML File**: Navigate to the project folder on your computer and double-click the `index.html` file.
 3.  **View in Browser**: The file will automatically open in your default web browser, and the website will be displayed. You can resize the browser window to see the responsive design in action.
  
+with 💗 by **Revathi**
