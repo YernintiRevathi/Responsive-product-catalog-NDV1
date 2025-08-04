@@ -9,12 +9,19 @@ This project is a single-page static website designed to showcase a product cata
 The project is organized with a clear and simple file structure:
 /your-project-folder
 │
+
 ├── images/
+
 │ ├── product1.webp
+
 │ └── (other product images...)
+
 │
+
 ├── index.html # The HTML file containing all the content and structure.
+
 └── style.css # The CSS file containing all visual styles.
+
 
 
 ---
